@@ -1,0 +1,72 @@
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul li a {
+	padding: 40px 9px;
+}
+.scroll-header .main-menu ul li a {
+	padding: 25px 9px;
+}
+.languages {
+	margin-top: 50px;
+	float: left;
+	margin-left: 60px;
+}
+.about_info {
+	margin-top: 50px;
+}
+.info-text {
+	width: 100%;
+}
+.skill-info .progress {
+	margin-bottom: 18px;
+}
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+	.home-down-btn a {
+	bottom: 8px;
+}
+.table-cell h4 {
+	font-size: 16px;
+}
+.table-cell h2 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+.slider-title {
+	margin-top: 28px;
+}
+.about-text {
+   margin-left:0px;
+}
+.languages {
+	float: left;
+}
+.mean-container .mean-bar {
+	background: 0;
+}
+.mean-container a.meanmenu-reveal {
+	top: -40px;
+	background: #000;
+}
+.mean-container .mean-nav {
+	margin-top: 15px;
+	padding: 0px 0;
+	min-height: 0px;
+}
+.cta-info ul li {
+	 margin-right:0px;
+}
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
