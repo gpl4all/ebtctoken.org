@@ -1,2 +1,3 @@
 # ebtctoken.org
-ebtctoken.org website repo
+
+This is an [eBTC official website](https://ebtctoken.org/) repo.
